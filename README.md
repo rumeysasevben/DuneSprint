@@ -67,8 +67,8 @@ Assets/
 
 **Rumeysa Sevben**
 
-- [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- [GitHub](https://github.com/YOUR_GITHUB)
+- [LinkedIn](https://www.linkedin.com/in/rumeysa-sevben-608881219/)
+- [GitHub](rumeysasevben)
 
 ## 📄 License
 
