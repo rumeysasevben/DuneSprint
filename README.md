@@ -4,7 +4,7 @@ An endless runner game set in a vast desert landscape, built with **Unity 6**. R
 
 ## 🎮 Gameplay
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_LINK_HERE
+https://youtu.be/83c3JCSVyU8
 
 - **Run** through an endless desert environment
 - **Jump** over obstacles (Space / W / ↑)
